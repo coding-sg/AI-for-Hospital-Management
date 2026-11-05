@@ -1,4 +1,5 @@
 # AI for Hospital Management
+https://ai-for-hospital-management-fpaqu3jywknjhnaehtug5i.streamlit.app/
 
 An educational AI assistant built with Streamlit, LangChain, and Google Gemini.
 It helps users explore hospital administration and healthcare operations.
